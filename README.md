@@ -1,2 +1,3 @@
 # repo-curso
-Este es un readme 
+Este es un readme
+utilizar git pull
